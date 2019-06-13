@@ -1,4 +1,3 @@
-package www.html.sinacofi;
 import java.io.File;
 import java.io.PrintStream;
 import java.nio.file.Paths;
